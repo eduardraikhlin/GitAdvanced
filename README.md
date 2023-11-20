@@ -1,1 +1,1 @@
-Let's start improving
+Let's start improving Git skills!
